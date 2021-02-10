@@ -1,0 +1,3 @@
+cd /home/ubuntu
+source environment/bin/activate
+python manage.py collectstatic --noinput
