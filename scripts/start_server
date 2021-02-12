@@ -1,2 +1,2 @@
 cd /home/ubuntu
-python3 /helloworld/manage.py collectstatic --noinput
+nohup /venv/bin/python3 /helloworld/manage.py runserver
