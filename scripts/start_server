@@ -1,3 +1,2 @@
 cd /home/ubuntu
-source environment/bin/activate
-python manage.py collectstatic --noinput
+python3 /helloworld/manage.py collectstatic --noinput
