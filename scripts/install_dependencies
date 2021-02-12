@@ -1,6 +1,6 @@
 #!/bin/bash
 apt update
-apt install python-pip
+apt install python-pip -y
 pip install virtualenv
 cd /home/ubuntu
 virtualenv environment
