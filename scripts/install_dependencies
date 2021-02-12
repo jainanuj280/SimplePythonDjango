@@ -5,4 +5,4 @@ pip install virtualenv
 cd /home/ubuntu
 virtualenv environment
 source environment/bin/activate
-pip install -r ~/helloworld/requirements.txt
+pip install -r /home/ubuntu/helloworld/requirements.txt
