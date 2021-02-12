@@ -1,2 +1,2 @@
 cd /home/ubuntu
-nohup /venv/bin/python3 /helloworld/manage.py runserver
+nohup venv/bin/python3 helloworld/manage.py runserver
