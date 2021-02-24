@@ -2,7 +2,7 @@ version: 0.0
 os: linux
 files:
  - source: .
-   destination: /home/ubuntu/helloworld
+   destination: /var/www/backend
 
 permissions:
   - object: /home/ubuntu/manage.py
