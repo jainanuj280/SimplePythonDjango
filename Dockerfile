@@ -1,5 +1,5 @@
 # base image to be used
-FROM python:3.9.2
+FROM python:3
 
 # create root directory for our project in the container
 #RUN mkdir /code
